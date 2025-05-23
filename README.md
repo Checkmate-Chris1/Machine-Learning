@@ -40,7 +40,6 @@ Along the way, I visualized how these values change over time and iterations, he
 ## 🛠️ Tech Stack
 
 - Python (core logic)
-- `matplotlib` for visual plots
 - `tkinter` for the GUI
 - `tensorflow` for comparison models
 
